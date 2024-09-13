@@ -1,0 +1,10 @@
+{
+  "Name": "AutoPetCare",
+  "Author": "roseboyShinji",
+  "Version": "1.0.0",
+  "Description": "Pats the animals everyday so you don't have to, and fills the pet bowl as a bonus",
+  "UniqueID": "roseboyShinji.AutoPetCare",
+  "EntryDll": "AutoPetCare.dll",
+  "MinimumApiVersion": "4.0.1",
+  "UpdateKeys": []
+}
